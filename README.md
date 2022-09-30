@@ -30,4 +30,20 @@ Question 3. 10 Differences between structured and non structured query languages
 4. SQL databases use structured query language and have a predefined schema. NoSQL databases have dynamic schemas for unstructured data.
 5. SQL databases are relational, NoSQL databases are non-relational.
 
-Question 4. 30 examples of ODM and ORM (different technologies)
+Question 4. 30 examples of ODM and ORM 15 each (different technologies)
+15 examples of ORM
+1. Hibernate
+2. Java Persistent API (JPA)
+3. Entity Framework
+4. Top Link
+5. Active Record
+6. Django
+7. Doctrine
+8. Apache OpenJPA
+9. EclipeLink
+10. Fluent NHibernate
+11. Core Data by Apple
+12. nHydrate
+13. Laravel
+14. Propel
+15. SQLAlchemy
